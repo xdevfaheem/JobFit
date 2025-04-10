@@ -56,12 +56,7 @@ Ideal for **career changers**, **new grads**, or anyone applying for jobs in tod
 
 ## 🏗️ Architecture Design
 
-<div align="center">
-  <p style="width: 80%; margin: 0 auto;">
-    <img src="https://github.com/xdevfaheem/JobFit/blob/main/assets/initial_architecture.png" alt="High Level Design" max-height="1000" valign="middle" />
-  </p>
-</div>
-
+![](https://github.com/xdevfaheem/JobFit/blob/main/assets/initial_architecture.png)
 
 ## 🔭 Future Enhancements
 - ✅ One-click job applications (autofill integration)
