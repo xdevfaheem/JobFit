@@ -56,7 +56,7 @@ Ideal for **career changers**, **new grads**, or anyone applying for jobs in tod
 
 ## 🏗️ Architecture Design
 
-![](https://github.com/xdevfaheem/JobFit/blob/main/assets/initial_architecture.png)
+![](/assets/arch.png)
 
 ## 🔭 Future Enhancements
 - ✅ One-click job applications (autofill integration)
