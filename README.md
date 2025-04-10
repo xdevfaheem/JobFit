@@ -4,14 +4,16 @@
 
 Instantly analyze your resume, get expert-level review & feedback, and discover jobs you're a great fit for. No fluff, no subscriptions — just actionable results.
 
-🛠️ **Built during**
+🛠**Built during**
 [The Ultimate, Multi-modal, AI Acceleration Event LPB25](https://www.kxsb.org/lpb25)
 
+---
 
 ## 🚀 Live Demo
 
 🧪 Coming Soon – under active development!
 
+---
 
 ## ✨ What It Does
 
@@ -22,6 +24,7 @@ Instantly analyze your resume, get expert-level review & feedback, and discover 
 - Generate context-aware & expert-level reviews, actionable feedbacks & recommendation for enhancements.
 - Discover top job openings that best match the user's profile and preferences and rank them based on the fit.
 
+---
 
 ## 💡 What Sets it Apart
 - Combines **resume critique + and job matching** in one tool.
@@ -30,6 +33,7 @@ Instantly analyze your resume, get expert-level review & feedback, and discover 
 
 Ideal for **career changers**, **new grads**, or anyone applying for jobs in today’s noisy market.
 
+---
 
 ## 🎯 Key Features
 
@@ -40,6 +44,7 @@ Ideal for **career changers**, **new grads**, or anyone applying for jobs in tod
 - 🔍 **Smart Job Matching** 
 - 💳 **Pay-Per-Report Pricing Model** 
 
+---
 
 ## 🧰 Tech Stack
 
@@ -53,10 +58,13 @@ Ideal for **career changers**, **new grads**, or anyone applying for jobs in tod
 | **Database**  | TinyDB / SQLite / PostgreSQL |
 | **Deployment**| VPS, Docker (Backend), GitHub Actions CI/CD, Caddy (reverse proxy), Security: UFW, SSH hardening, Fail2Ban |
 
+---
 
 ## 🏗️ Architecture Design
 
 ![](/assets/arch.png)
+
+---
 
 ## 🔭 Future Enhancements
 - ✅ One-click job applications (autofill integration)
@@ -65,6 +73,7 @@ Ideal for **career changers**, **new grads**, or anyone applying for jobs in tod
 - 📧 Smart email notifications & weekly job alerts
 - 💬 AI Assistant for real-time resume questions
 
+---
 
 ## 📄 License
 
