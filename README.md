@@ -1,6 +1,6 @@
 # JobFit🧠📄
 
-## AI-Powered Resume Review, Optimization & Job Matching
+## AI-Powered Resume Review, Optimization & Job Matching 
 
 Instantly analyze your resume, get expert-level review & feedback, and discover jobs you're a great fit for. No fluff, no subscriptions — just actionable results.
 
@@ -30,6 +30,7 @@ Instantly analyze your resume, get expert-level review & feedback, and discover 
 
 Ideal for **career changers**, **new grads**, or anyone applying for jobs in today’s noisy market.
 
+
 ## 🎯 Key Features
 
 - 📄 **Resume Upload & Parsing** 
@@ -53,6 +54,15 @@ Ideal for **career changers**, **new grads**, or anyone applying for jobs in tod
 | **Deployment**| VPS, Docker (Backend), GitHub Actions CI/CD, Caddy (reverse proxy), Security: UFW, SSH hardening, Fail2Ban |
 
 
+## 🏗️ Architecture Design
+
+<div align="center">
+  <p style="width: 80%; margin: 0 auto;">
+    <img src="https://github.com/xdevfaheem/JobFit/blob/main/assets/initial_architecture.png" alt="High Level Design" max-height="1000" valign="middle" />
+  </p>
+</div>
+
+
 ## 🔭 Future Enhancements
 - ✅ One-click job applications (autofill integration)
 - ✍️ AI rewrite suggestions + tone/style customization (corporate, casual, energetic).
@@ -61,4 +71,11 @@ Ideal for **career changers**, **new grads**, or anyone applying for jobs in tod
 - 💬 AI Assistant for real-time resume questions
 
 
-**Built with ❤️‍🔥 by the [JobFitTeam](https://discord.com/channels/1242483589690425405/1357744395817980106)**
+## 📄 License
+
+This project is licensed under the GNU GPLv3 License - see the see the [LICENSE](LICENSE) file for details.
+
+
+---
+
+**Built with ❤️‍🔥 by the [JobFit Team](https://discord.com/channels/1242483589690425405/1357744395817980106)**
