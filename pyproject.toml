@@ -1,0 +1,8 @@
+[project]
+name = "jobfit"
+version = "0.1.0"
+description = "AI-Powered Resume Optimization & Job Matching"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.12",
+]
