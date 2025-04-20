@@ -5,4 +5,9 @@ description = "AI-Powered Resume Optimization & Job Matching"
 requires-python = ">=3.12"
 dependencies = [
     "fastapi>=0.115.12",
+    "litellm>=1.65.8",
+    "markitdown[docx,pdf]>=0.1.1",
+    "pillow>=11.1.0",
+    "pyyaml>=6.0.2",
+    "rendercv[full]>=2.2",
 ]
